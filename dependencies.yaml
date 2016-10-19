@@ -1,4 +1,4 @@
 MW:
-    - location: ssh://git@github.com:afahd/MW.git
+    - location: ssh://github.com:afahd/MW.git
       branch: master
      
