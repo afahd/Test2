@@ -1,5 +1,5 @@
 MW:
-    - location: https://github.com/afahd/Test2.git
+    - location: https://github.com/afahd/MW.git
       branch: master
       build: default
      
