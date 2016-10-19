@@ -1,4 +1,5 @@
 MW:
     - location: ssh://github.com:afahd/MW.git
       branch: master
+      build: default
      
