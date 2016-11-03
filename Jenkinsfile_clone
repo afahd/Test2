@@ -1,4 +1,5 @@
 node()
 {
   echo "hello"
+  echo "hello there"
 }
