@@ -1,4 +1,4 @@
-echo "$env.toString()"
+sh 'env tee env.txt'
 node()
 {
   echo "hello"
