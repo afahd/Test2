@@ -2,4 +2,7 @@ node()
 {
   echo "hello"
   echo "hello there"
+  sh 'env > env.txt'
+  def a = readFile('env.txt')
+  echo "$a"
 }
