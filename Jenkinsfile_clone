@@ -1,4 +1,4 @@
-sh 'env tee env.txt'
+
 node()
 {
   echo "hello"
